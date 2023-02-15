@@ -1,0 +1,18 @@
+Que es una base de datos relacional:
+
+una base de tado relacional es el que crea datos mediante uba base de datos . 
+
+
+
+Que es DML:
+es aquel que selecciona ,inserta , elimina.
+select
+insert
+update
+delete
+
+
+que es DDL:
+es aquel que crea tablas y modifica tablas.
+create table
+alter table 
