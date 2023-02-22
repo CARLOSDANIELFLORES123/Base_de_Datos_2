@@ -20,7 +20,7 @@ https://github.com/CARLOSDANIELFLORES123/Base_de_Datos_2/tree/main/HITO-1
 
 ## HITO 2
 
-
+https://github.com/CARLOSDANIELFLORES123/Base_de_Datos_2/tree/main/HITO-2
 
 
 ## HITO 3
